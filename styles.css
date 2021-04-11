@@ -1,3 +1,7 @@
 .article-title {
   font-style: italic;
 }
+
+.orig-article-link {
+  color: grey;
+}
